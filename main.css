@@ -1,0 +1,50 @@
+/* Root CSS */
+
+.add-promo input {
+    border: 1px solid #ccc;
+    padding: 7px 10px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 3px;
+}
+
+button {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: floralwhite;
+    border-radius: 3px;
+    font-weight: 600;
+}
+
+#macbook {
+    display: flex;
+    justify-content: space-evenly;
+    font-family: 'Lato', sans-serif;
+}
+
+.price-cal {
+    font-weight: 800;
+}
+
+.price-cal ul {
+    padding: 0;
+    list-style: none;
+}
+
+.price-cal ul li {
+    padding: 10px;
+    border-bottom: 2px solid whitesmoke;
+    display: flex;
+    justify-content: space-between;
+}
+
+.add-promo {
+    margin-bottom: 20px;
+}
+
+
+
+#footer-price {
+    text-align: center;
+}
+
